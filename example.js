@@ -1,1 +1,1 @@
-this is just an example if it is pushed or not
+console.log("hello this is git");
