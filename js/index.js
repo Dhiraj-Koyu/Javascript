@@ -1,40 +1,40 @@
-console.log("hello world");
-var name = "Dhiraj"; //variable declare gareko const ley
-name = "Sujin"; //override
-console.log(name);
+// console.log("hello world");
+// var name = "Dhiraj"; //variable declare gareko const ley
+// name = "Sujin"; //override
+// console.log(name);
 
-//* var, let, const
-//*ES5(Ecma Script 5)
-//*variable=>var
+// //* var, let, const
+// //*ES5(Ecma Script 5)
+// //*variable=>var
 
-//*ES6
-//*let,const
-//* const
-const person = "Figaland";
-console.log(person);
+// //*ES6
+// //*let,const
+// //* const
+// const person = "Figaland";
+// console.log(person);
 
-//*let
-let school = "abc";
-school = "cdc";
-console.log(school);
+// //*let
+// let school = "abc";
+// school = "cdc";
+// console.log(school);
 
-// alert("hello world");
-// const user = prompt("what is your name");
+// // alert("hello world");
+// // const user = prompt("what is your name");
+// // console.log(user);
+
+// const isstudent = confirm("are you above 18");
+// console.log(isstudent);
+
+// //write a program that asks user for their name and alerts their name with greeting
+
+// //*1
+// const user = prompt("what is your name?");
 // console.log(user);
 
-const isstudent = confirm("are you above 18");
-console.log(isstudent);
+// const greeter = "welcome back," + user;
 
-//write a program that asks user for their name and alerts their name with greeting
+// alert(greeter);
 
-//*1
-const user = prompt("what is your name?");
-console.log(user);
+// //*2 string literal
 
-const greeter = "welcome back," + user;
-
-alert(greeter);
-
-//*2 string literal
-
-alert(`welcome back, ${user}`);
+// alert(`welcome back, ${user}`);
